@@ -1,0 +1,72 @@
+{
+  "age2to4": [
+    {
+      "question": "What animal sound is this?",
+      "options": ["Cat", "Dog", "Bird", "Duck"],
+      "answer": "Cat",
+      "audioUrl": "assets/audio/age2-4/cat.mp3"
+    },
+    {
+      "question": "Listen and choose the correct sound",
+      "options": ["Cow", "Sheep", "Dog", "Horse"],
+      "answer": "Dog",
+      "audioUrl": "assets/audio/age2-4/dog.mp3"
+    }
+  ],
+  "age5to7": [
+    {
+      "question": "Which musical instrument do you hear?",
+      "options": ["Piano", "Guitar", "Drum", "Violin"],
+      "answer": "Piano",
+      "audioUrl": "assets/audio/age5-7/piano.mp3"
+    },
+    {
+      "question": "What vehicle makes this sound?",
+      "options": ["Train", "Car", "Bus", "Bicycle"],
+      "answer": "Train",
+      "audioUrl": "assets/audio/age5-7/train.mp3"
+    }
+  ],
+  "age8to10": [
+    {
+      "question": "Which language is being spoken?",
+      "options": ["English", "Spanish", "French", "German"],
+      "answer": "Spanish",
+      "audioUrl": "assets/audio/age8-10/spanish.mp3"
+    },
+    {
+      "question": "What weather condition do you hear?",
+      "options": ["Rain", "Wind", "Thunder", "Snow"],
+      "answer": "Thunder",
+      "audioUrl": "assets/audio/age8-10/thunder.mp3"
+    }
+  ],
+  "age11to15": [
+    {
+      "question": "Identify this famous classical piece",
+      "options": ["Symphony No. 5", "Für Elise", "Moonlight Sonata", "Turkish March"],
+      "answer": "Symphony No. 5",
+      "audioUrl": "assets/audio/age11-15/symphony5.mp3"
+    },
+    {
+      "question": "What bird species makes this call?",
+      "options": ["Eagle", "Owl", "Hawk", "Falcon"],
+      "answer": "Eagle",
+      "audioUrl": "assets/audio/age11-15/eagle.mp3"
+    }
+  ],
+  "age16to25": [
+    {
+      "question": "Name this scientific phenomenon",
+      "options": ["Sonic Boom", "Earthquake", "Volcanic Eruption", "Avalanche"],
+      "answer": "Sonic Boom",
+      "audioUrl": "assets/audio/age16-25/sonic-boom.mp3"
+    },
+    {
+      "question": "Which astronomical event produces this sound?",
+      "options": ["Pulsar", "Black Hole", "Solar Flare", "Meteor Impact"],
+      "answer": "Pulsar",
+      "audioUrl": "assets/audio/age16-25/pulsar.mp3"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+name: sheshya
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_native_splash: ^2.3.13
+  just_audio: ^0.9.36
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/sheshya.png
+    - assets/kids_game_data.json
+    - assets/fill_questions_by_age.json
+    - assets/audio_game_data.json
+    - assets/sentence_game_questions_by_age.json
+    - assets/age 2 - 4/
+    - assets/age 5 - 7/
+    - assets/age 8 - 20/
+    - assets/audio/
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/sheshya.png
+  android: true
+  ios: true
+  web: true
+  
+  android_12:
+    color: "#FFFFFF"
+    image: assets/sheshya.png
+    icon_background_color: "#FFFFFF"
+  
+  android_gravity: center
+  ios_content_mode: center
+  fullscreen: true

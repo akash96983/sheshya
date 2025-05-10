@@ -1,0 +1,285 @@
+{
+  "age2to4": [
+  {
+    "image": "age 2 - 4/Apple.jpeg",
+    "correct": "Apple",
+    "options": ["Fish", "Ball", "Apple", "Hat"]
+  },
+  {
+    "image": "age 2 - 4/Banana.jpeg",
+    "correct": "Banana",
+    "options": ["Banana", "Dog", "Car", "Sun"]
+  },
+  {
+    "image": "age 2 - 4/Beach Ball.jpeg",
+    "correct": "Ball",
+    "options": ["Flower", "Square", "Ball", "Cat"]
+  },
+  {
+    "image": "age 2 - 4/Teddy Bear.jpeg",
+    "correct": "Teddy bear",
+    "options": ["Duck", "Teddy bear", "Hat", "Moon"]
+  },
+  {
+    "image": "age 2 - 4/Cat.jpeg",
+    "correct": "Cat",
+    "options": ["Triangle", "Fish", "Dog", "Cat"]
+  },
+  {
+    "image": "age 2 - 4/Dog.jpeg",
+    "correct": "Dog",
+    "options": ["Car", "Apple", "Sun", "Dog"]
+  },
+  {
+    "image": "age 2 - 4/Goldfish.jpeg",
+    "correct": "Fish",
+    "options": ["Fish", "Duck", "Square", "Ball"]
+  },
+  {
+    "image": "age 2 - 4/Triangle.jpeg",
+    "correct": "Triangle",
+    "options": ["Triangle", "Circle", "Hat", "Square"]
+  },
+  {
+    "image": "age 2 - 4/Square.jpeg",
+    "correct": "Square",
+    "options": ["Flower", "Triangle", "Sun", "Square"]
+  },
+  {
+    "image": "age 2 - 4/Duck.jpeg",
+    "correct": "Duck",
+    "options": ["Teddy bear", "Fish", "Banana", "Duck"]
+  },
+  {
+    "image": "age 2 - 4/Flower.jpeg",
+    "correct": "Flower",
+    "options": ["Triangle", "Apple", "Moon", "Flower"]
+  },
+  {
+    "image": "age 2 - 4/Sun.jpeg",
+    "correct": "Sun",
+    "options": ["Moon", "Sun", "Hat", "Dog"]
+  },
+  {
+    "image": "age 2 - 4/Moon.jpeg",
+    "correct": "Moon",
+    "options": ["Moon", "Apple", "Car", "Sun"]
+  },
+  {
+    "image": "age 2 - 4/Car.jpeg",
+    "correct": "Car",
+    "options": ["Fish", "Cat", "Hat", "Car"]
+  },
+  {
+    "image": "age 2 - 4/Hat.jpeg",
+    "correct": "Hat",
+    "options": ["Flower", "Teddy bear", "Ball", "Hat"]  }
+  ],
+  "age5to7": [
+  {
+    "image": "age 5 - 7/Ambulance.jpeg",
+    "correct": "Ambulance",
+    "options": ["Wrench", "Doctor", "Ambulance", "Ice cream"]
+  },
+  {
+    "image": "age 5 - 7/Fire truck.jpeg",
+    "correct": "Fire truck",
+    "options": ["Ice cream", "Teacher", "Helicopter", "Fire truck"]
+  },
+  {
+    "image": "age 5 - 7/Police car.jpeg",
+    "correct": "Police car",
+    "options": ["Teacher", "Spoon", "Burger", "Police car"]
+  },
+  {
+    "image": "age 5 - 7/Chef.jpeg",
+    "correct": "Chef",
+    "options": ["Chef", "Ice cream", "Kite", "Fire truck"]
+  },
+  {
+    "image": "age 5 - 7/Doctor.jpeg",
+    "correct": "Doctor",
+    "options": ["Hammer", "Doctor", "Spoon", "Fire truck"]
+  },
+  {
+    "image": "age 5 - 7/Teacher.jpeg",
+    "correct": "Teacher",
+    "options": ["Teacher", "Ambulance", "Burger", "Pizza"]
+  },
+  {
+    "image": "age 5 - 7/Wrench.jpeg",
+    "correct": "Wrench",
+    "options": ["Wrench", "Train", "Elephant", "Scissors"]
+  },
+  {
+    "image": "age 5 - 7/Hammer.jpeg",
+    "correct": "Hammer",
+    "options": ["Hammer", "Pizza", "Chef", "Train"]
+  },
+  {
+    "image": "age 5 - 7/Spoon.jpeg",
+    "correct": "Spoon",
+    "options": ["Spoon", "Wrench", "Kite", "Lion"]
+  },
+  {
+    "image": "age 5 - 7/Burger.jpeg",
+    "correct": "Burger",
+    "options": ["Burger", "Police car", "Doctor", "Scissors"]
+  },
+  {
+    "image": "age 5 - 7/Pizza.jpeg",
+    "correct": "Pizza",
+    "options": ["Train", "Pizza", "Lion", "Ambulance"]
+  },
+  {
+    "image": "age 5 - 7/Ice cream.jpeg",
+    "correct": "Ice cream",
+    "options": ["Elephant", "Ice cream", "Chef", "Scissors"]
+  },
+  {
+    "image": "age 5 - 7/Lion.jpeg",
+    "correct": "Lion",
+    "options": ["Lion", "Teacher", "Kite", "Train"]
+  },
+  {
+    "image": "age 5 - 7/Elephant.jpeg",
+    "correct": "Elephant",
+    "options": ["Elephant", "Pizza", "Pencil", "Chef"]
+  },
+  {
+    "image": "age 5 - 7/Train.jpeg",
+    "correct": "Train",
+    "options": ["Train", "Clock", "Helicopter", "Wrench"]
+  },
+  {
+    "image": "age 5 - 7/Helicopter.jpeg",
+    "correct": "Helicopter",
+    "options": ["Clock", "Helicopter", "Hammer", "Doctor"]
+  },
+  {
+    "image": "age 5 - 7/Kite.jpeg",
+    "correct": "Kite",
+    "options": ["Kite", "Police car", "Elephant", "Pencil"]
+  },
+  {
+    "image": "age 5 - 7/Pencil.jpeg",
+    "correct": "Pencil",
+    "options": ["Pencil", "Burger", "Kite", "Train"]
+  },
+  {
+    "image": "age 5 - 7/Scissors.jpeg",
+    "correct": "Scissors",
+    "options": ["Scissors", "Doctor", "Pizza", "Clock"]
+  },
+  {
+    "image": "age 5 - 7/Clock.jpeg",
+    "correct": "Clock",
+    "options": ["Clock", "Ice cream", "Spoon", "Ambulance"]
+  }
+  ],
+  "age8-20":
+    [
+  {
+    "image": "age 8 - 20/Violin.jpeg",
+    "correct": "Violin",
+    "options": ["Microscope", "Violin", "Globe", "Cricket bat"]
+  },
+  {
+    "image": "age 8 - 20/Guitar.jpeg",
+    "correct": "Guitar",
+    "options": ["Guitar", "Tent", "Drone", "Microscope"]
+  },
+  {
+    "image": "age 8 - 20/Microscope.jpeg",
+    "correct": "Microscope",
+    "options": ["Books", "Cricket bat", "Microscope", "Compass"]
+  },
+  {
+    "image": "age 8 - 20/Telescope.jpeg",
+    "correct": "Telescope",
+    "options": ["Telescope", "Tent", "Robot", "Plant cell image"]
+  },
+  {
+    "image": "age 8 - 20/Basketball.jpeg",
+    "correct": "Basketball",
+    "options": ["Cricket bat", "Basketball", "Tent", "Drone"]
+  },
+  {
+    "image": "age 8 - 20/Cricket bat.jpeg",
+    "correct": "Cricket bat",
+    "options": ["Laptop", "Cricket bat", "Robot", "Drone"]
+  },
+  {
+    "image": "age 8 - 20/Tent.jpeg",
+    "correct": "Tent",
+    "options": ["Tent", "Robot", "Globe", "Recycle bin"]
+  },
+  {
+    "image": "age 8 - 20/Compass.jpeg",
+    "correct": "Compass",
+    "options": ["Compass", "Recycle bin", "Guitar", "Telescope"]
+  },
+  {
+    "image": "age 8 - 20/Volcano.jpeg",
+    "correct": "Volcano",
+    "options": ["Microscope", "Volcano", "Water cycle diagram", "Globe"]
+  },
+  {
+    "image": "age 8 - 20/Rocket.jpeg",
+    "correct": "Rocket",
+    "options": ["Rocket", "Recycle bin", "Laptop", "Telescope"]
+  },
+  {
+    "image": "age 8 - 20/Laptop.jpeg",
+    "correct": "Laptop",
+    "options": ["Keyboard", "Volcano", "Globe", "Laptop"]
+  },
+  {
+    "image": "age 8 - 20/Headphones.jpeg",
+    "correct": "Headphones",
+    "options": ["Laptop", "Robot", "Rocket", "Headphones"]
+  },
+  {
+    "image": "age 8 - 20/Globe.jpeg",
+    "correct": "Globe",
+    "options": ["Tent", "Cricket bat", "Plant cell image", "Globe"]
+  },
+  {
+    "image": "age 8 - 20/Recycle bin.jpeg",
+    "correct": "Recycle bin",
+    "options": ["Recycle bin", "Compass", "Keyboard", "Plant cell image"]
+  },
+  {
+    "image": "age 8 - 20/Water cycle diagram.jpeg",
+    "correct": "Water cycle diagram",
+    "options": ["Microscope", "Water cycle diagram", "Telescope", "Volcano"]
+  },
+  {
+    "image": "age 8 - 20/Plant cell image.jpeg",
+    "correct": "Plant cell image",
+    "options": ["Plant cell image", "Drone", "Telescope", "Basketball"]
+  },
+  {
+    "image": "age 8 - 20/Robot.jpeg",
+    "correct": "Robot",
+    "options": ["Microscope", "Robot", "Drone", "Guitar"]
+  },
+  {
+    "image": "age 8 - 20/Keyboard.jpeg",
+    "correct": "Keyboard",
+    "options": ["Keyboard", "Headphones", "Volcano", "Basketball"]
+  },
+  {
+    "image": "age 8 - 20/Drone.jpeg",
+    "correct": "Drone",
+    "options": ["Books", "Tent", "Drone", "Plant cell image"]
+  },
+  {
+    "image": "age 8 - 20/Books.jpeg",
+    "correct": "Books",
+    "options": ["Books", "Water cycle diagram", "Microscope", "Tent"]
+  }
+]
+
+  
+}
